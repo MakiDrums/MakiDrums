@@ -23,8 +23,7 @@
 <li>
 <b>Wanna live in Kyoto</b>
 </li>
-
-<p align="center"><img src="https://img.shields.io/badge/MakiDrums-profile?style=for-the-badge&logo=spotify&logoColor=black&color=%231ED760&link=https%3A%2F%2Fopen.spotify.com%2Fuser%2F312v7vsn4mq3h5incdkytmqkrfly%3Fsi%3D423b695023bd4097" width="133"/>
+<div align="center"><img src="https://img.shields.io/badge/MakiDrums-profile?style=for-the-badge&logo=spotify&logoColor=black&color=%231ED760&link=https%3A%2F%2Fopen.spotify.com%2Fuser%2F312v7vsn4mq3h5incdkytmqkrfly%3Fsi%3D423b695023bd4097" width="133"/>
 <br>
 </div>
 <div>
@@ -33,7 +32,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://media1.tenor.com/m/0-vlzZ5-1pYAAAAd/anime-anime-girl.gif" align="left"width="185" alt="Niji GIF">
+<img src="https://media1.tenor.com/m/0-vlzZ5-1pYAAAAd/anime-anime-girl.gif" align="left" width="185" alt="Niji GIF">
   </div>
 </div>
 <div>
