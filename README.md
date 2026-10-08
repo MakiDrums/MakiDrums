@@ -24,8 +24,7 @@
 <b>Wanna live in Kyoto</b>
 </li>
 
-<p align="center"><img src="https://img.shields.io/badge/MakiDrums-profile?style=for-the-badge&logo=spotify&logoColor=black&color=%231ED760&link=https%3A%2F%2Fopen.spotify.com%2Fuser%2F312v7vsn4mq3h5incdkytmqkrfly%3Fsi%3D423b695023bd4097
-"width="133"/>
+<p align="center"><img src="https://img.shields.io/badge/MakiDrums-profile?style=for-the-badge&logo=spotify&logoColor=black&color=%231ED760&link=https%3A%2F%2Fopen.spotify.com%2Fuser%2F312v7vsn4mq3h5incdkytmqkrfly%3Fsi%3D423b695023bd4097" width="133"/>
 <br>
 </div>
 <div>
@@ -39,13 +38,9 @@
 </div>
 <div>
   <br><br><br>
-<p align="center"><img src="https://img.shields.io/badge/Python-Profile?style=for-the-badge&logo=python&logoColor=white&color=%233776AB
-"width="150"/> <img src="https://img.shields.io/badge/Ollama-Profile?style=for-the-badge&logo=ollama&logoColor=white&color=%23000000
-"width="152"/> <br><img src="https://img.shields.io/badge/html5-Profile?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26
-"width="150"/>
- <img src="https://img.shields.io/badge/css-Profile?style=for-the-badge&logo=css&logoColor=white&color=%23663399
- "width="117"/>
- <img src="https://img.shields.io/badge/Aiogram-profile?style=for-the-badge&logo=telegram&logoColor=white&color=%2326A5E4"width="181"/><br><br>
+<p align="center"><img src="https://img.shields.io/badge/Python-Profile?style=for-the-badge&logo=python&logoColor=white&color=%233776AB" width="150"/> <img src="https://img.shields.io/badge/Ollama-Profile?style=for-the-badge&logo=ollama&logoColor=white&color=%23000000" width="152"/> <br><img src="https://img.shields.io/badge/html5-Profile?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26" width="150"/>
+ <img src="https://img.shields.io/badge/css-Profile?style=for-the-badge&logo=css&logoColor=white&color=%23663399" width="117"/>
+ <img src="https://img.shields.io/badge/Aiogram-profile?style=for-the-badge&logo=telegram&logoColor=white&color=%2326A5E4" width="181"/><br><br>
 
  
 </p>
